@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "email": "Email",
+  "password" : "Password",
+  "rememberMe" : "Remember me",
+  "login" : "Login",
+  "accountDes" : "Don't have an account?",
+  "signUp" : "SignUp",
+  "enterEmail" : "Please enter email",
+  "emailValidation" : "Please enter valid email!",
+  "enterPassword" : "Please enter password",
+  "passwordValidation" : "Please enter minimum 8 character",
+  "explore" : "Explore",
+  "favorite" : "Favorite",
+  "trips" : "Trips",
+  "inbox" : "Inbox",
+  "profile" : "Profile",
+  "boats" : "Boats",
+  "cars" : "Cars",
+  "stays" : "Stays"
+}

@@ -1,0 +1,21 @@
+{
+  "@@locale": "hi",
+  "email": "ईमेल",
+  "password": "पासवर्ड",
+  "rememberMe": "मुझे याद रखें",
+  "login": "लॉगिन",
+  "accountDes": "खाता नहीं है?",
+  "signUp": "साइन अप करें",
+  "enterEmail": "कृपया ईमेल दर्ज करें",
+  "emailValidation": "कृपया मान्य ईमेल दर्ज करें!",
+  "enterPassword": "कृपया पासवर्ड दर्ज करें",
+  "passwordValidation": "कृपया कम से कम 8 वर्ण दर्ज करें",
+  "explore": "अन्वेषण",
+  "favorite": "पसंदीदा",
+  "trips": "यात्राएँ",
+  "inbox": "इनबॉक्स",
+  "profile": "प्रोफ़ाइल",
+  "boats": "नौकाएँ",
+  "cars": "कारें",
+  "stays": "जगह"
+}
